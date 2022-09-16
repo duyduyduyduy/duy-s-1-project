@@ -4,5 +4,5 @@ const Imageheader=()=>{
     return(
       <Example/>
     )
-}
+}//Bùi Thanh Duy
 export default Imageheader;
